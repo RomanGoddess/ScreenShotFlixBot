@@ -1,4 +1,4 @@
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+https://github.com/mahesh0253/pyrogram/archive/asyncio.zip
 https://github.com/Tinche/aiofiles/archive/master.zip
 tgcrypto
 motor
