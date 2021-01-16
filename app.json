@@ -1,15 +1,15 @@
 {
- "name": "Screenshot Bot",
- "description": "Screenshot /Sample Video / Trim Video files",
- "logo": "https://telegra.ph/file/a3a32dcceb8201635c1f0.jpg",
+ "name": "Crazy Bot",
+ "description": "Crazy",
+ "logo": "https://telegra.ph/file/f509c74dc86dd85c989c2.jpg",
  "keywords": [
    "telegram",
-   "Screenshot",
-   "Sample video",
-   "Trim Video",
-   "without downloading the entire file"
+   "SC",
+   "SV",
+   "TV",
+   "Without Downloading The Entire File"
   ],
-  "repository": "https://github.com/TGExplore/Screenshot-Bot",
+  "repository": "https://github.com/RomanGoddess/Screenshot-Bot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -40,7 +40,7 @@
       "value": ""
     },
     "HOST": {
-      "description": "Public URL of streaming service (https://github.com/TGExplore/musical-waddle)",
+      "description": "Public URL of streaming service (https://github.com/RomanGoddess/musical-waddle)",
       "value": ""
     },
     "MAX_PROCESSES_PER_USER": {
